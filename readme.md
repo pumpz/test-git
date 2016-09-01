@@ -11,3 +11,7 @@ Currently support Features
 * Add a new car
 * add a fill up
 * Display car's average Km/L
+
+## Credits
+
+Developed by Kittiphan J.
