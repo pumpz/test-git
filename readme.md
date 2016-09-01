@@ -15,3 +15,5 @@ Currently support Features
 ## Credits
 
 Developed by Kittiphan J.
+
+Modified: Sep 1, 2016.
